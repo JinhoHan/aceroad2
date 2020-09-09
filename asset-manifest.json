@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aceroad2/static/css/main.431632a8.chunk.css",
+    "main.js": "/aceroad2/static/js/main.66987436.chunk.js",
+    "main.js.map": "/aceroad2/static/js/main.66987436.chunk.js.map",
+    "runtime-main.js": "/aceroad2/static/js/runtime-main.1645d321.js",
+    "runtime-main.js.map": "/aceroad2/static/js/runtime-main.1645d321.js.map",
+    "static/js/2.eab44c82.chunk.js": "/aceroad2/static/js/2.eab44c82.chunk.js",
+    "static/js/2.eab44c82.chunk.js.map": "/aceroad2/static/js/2.eab44c82.chunk.js.map",
+    "index.html": "/aceroad2/index.html",
+    "precache-manifest.40e367750dd7372463d430857c68d45a.js": "/aceroad2/precache-manifest.40e367750dd7372463d430857c68d45a.js",
+    "service-worker.js": "/aceroad2/service-worker.js",
+    "static/css/main.431632a8.chunk.css.map": "/aceroad2/static/css/main.431632a8.chunk.css.map",
+    "static/js/2.eab44c82.chunk.js.LICENSE.txt": "/aceroad2/static/js/2.eab44c82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1645d321.js",
+    "static/js/2.eab44c82.chunk.js",
+    "static/css/main.431632a8.chunk.css",
+    "static/js/main.66987436.chunk.js"
+  ]
+}
